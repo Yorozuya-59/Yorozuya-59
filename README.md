@@ -111,10 +111,31 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
 
 
 # 過去の取り組み
+## 大規模言語モデル開発
+### 概要
+大規模言語モデル開発 開発メンバーとして参加．
+@東京大学 松尾研究室 LLMコミュニティ
+(2024/02-2024/06)
 
-# 連絡先
+参考URL: https://weblab.t.u-tokyo.ac.jp/2024-02-02/
 
-# 一言
+### 開発リポジトリ
+https://github.com/geniacllm
+
+## DX HACK（ハッカソン）参加
+### 概要
+BIPROGY様主催のハッカソン "DX HACK" に参加．
+(2024/05/18-19)
+
+### 結果
+『オーディエンス賞』 受賞  
+ブログ執筆: https://qiita.com/Yorozuya59/items/116a72021ea8e7505892
+
+
+# 参考
+Qiita: https://qiita.com/Yorozuya59
+AtCoder: https://atcoder.jp/users/yorozuya
+Kaggle: https://www.kaggle.com/yorozuya59
 
 
 <!--
