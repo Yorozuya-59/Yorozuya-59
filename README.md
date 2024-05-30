@@ -133,9 +133,9 @@ BIPROGY様主催のハッカソン "DX HACK" に参加．
 
 
 # 参考
-Qiita: https://qiita.com/Yorozuya59
-AtCoder: https://atcoder.jp/users/yorozuya
-Kaggle: https://www.kaggle.com/yorozuya59
+Qiita: https://qiita.com/Yorozuya59  
+AtCoder: https://atcoder.jp/users/yorozuya  
+Kaggle: https://www.kaggle.com/yorozuya59  
 
 
 <!--
