@@ -20,7 +20,7 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
 
 # 現在の取り組み
 ## オンラインプラットフォーム上の誹謗中傷検出
-![fig](./figs/my_research_system_architecture_trimed.pdf)
+![fig](./figs/my_research_system_architecture_trimed.png)
 
 ### 研究背景
 近年，ソーシャルメディアは急速な発展を遂げていますが，これに伴い誹謗中傷やネットいじめ，ヘイトスピーチといった有害なコンテンツの投稿が増大していることが問題となっています．
