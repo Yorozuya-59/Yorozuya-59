@@ -16,11 +16,18 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
   Expected to graduate from Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Core Informatics, System Informatics at 2026/03
 
 
-# 研究テーマ
+
 
 # スキルセット
 
 # 現在の取り組み
+## オンラインプラットフォーム上の誹謗中傷検出
+### 概要
+近年，ソーシャルメディアは急速な発展を遂げていますが，これに伴い誹謗中傷やネットいじめ，ヘイトスピーチといった有害なコンテンツの投稿が増大していることが問題となっています．
+こうした有害なコンテンツの検出は利用者にとっても身を守るという点で有効であるだけでなく，サービスを提供するプラットフォーマにとってもそのサービスの評価に影響を与えるという点で有効です．
+
+### 研究背景
+有害コンテンツの検出に関する研究は特に英語圏で盛んですが，一方で日本語圏における研究はまだ不十分であることが指摘されています．
 
 # 過去の取り組み
 
