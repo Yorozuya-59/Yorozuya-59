@@ -1,8 +1,6 @@
 最終更新日: 2024/06/08  
 Last Updated: 2024/06/08
 
-[![Yorozuya-59's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yorozuya-59&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 # 所属
 大阪公立大学 大学院 情報学研究科 基幹情報学専攻 システム情報学分野 スマートプラットフォーム研究室  
 Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Core Informatics, Smart Platform Lab.
@@ -138,6 +136,7 @@ Qiita: https://qiita.com/Yorozuya59
 AtCoder: https://atcoder.jp/users/yorozuya  
 Kaggle: https://www.kaggle.com/yorozuya59  
 
+[![Yorozuya-59's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yorozuya-59&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Yorozuya-59/Yorozuya-59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
