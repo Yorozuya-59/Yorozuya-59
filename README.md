@@ -1,6 +1,24 @@
 最終更新日: 2024/06/08  
 Last Updated: 2024/06/08
 
+![view counter](https://komarev.com/ghpvc/?username=Yorozuya-59)
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Yorozuya59/posts.svg)](http://qiita.com/Yorozuya59)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Yorozuya59/contributions.svg)](http://qiita.com/Yorozuya59)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/Yorozuya59/followers.svg)](http://qiita.com/Yorozuya59)
+
+# 目次
+1. [所属](#所属)
+1. [経歴](#経歴)
+1. [スキルセット](#スキルセット)
+    1. [言語](#言語)
+    1. [フレームワーク・ライブラリ](#フレームワークライブラリ)
+    1. [開発ツール](#開発ツール)
+    1. [その他](#その他)
+1. [現在の取り組み](#現在の取り組み)
+1. [過去の取り組み](#過去の取り組み)
+1. [参考](#参考)
+
 
 # 所属
 大阪公立大学 大学院 情報学研究科 基幹情報学専攻 システム情報学分野 スマートプラットフォーム研究室  
@@ -140,6 +158,9 @@ Kaggle: https://www.kaggle.com/yorozuya59
 [![Yorozuya-59's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yorozuya-59&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yorozuya-59&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yorozuya-59)
+![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yorozuya-59&utcOffset=+9)
 
 <!--
 **Yorozuya-59/Yorozuya-59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
