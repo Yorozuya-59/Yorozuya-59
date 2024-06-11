@@ -20,22 +20,22 @@ Last Updated: 2024/06/08
 1. [参考 / References](#参考)
 
 
-# 所属
+# 所属 / Affiliation
 大阪公立大学 大学院 情報学研究科 基幹情報学専攻 システム情報学分野 スマートプラットフォーム研究室  
 Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Core Informatics, Smart Platform Lab.
 
 研究室URL: https://omusp.jp/
 
 
-# 経歴
+# 経歴 / Career
 - 大阪市立大学 工学部 電気情報工学科 2024/03 卒業  
   Graduated from Osaka City University, Faculty of Engineering, Department of Electric and Information Engineering at 2024/03 
 - 大阪公立大学 大学院 情報学研究科 基幹情報学専攻 システム情報学分野 2026/03 卒業予定  
   Expected to graduate from Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Core Informatics, System Informatics at 2026/03
 
 
-# スキルセット
-## 言語
+# スキルセット / Skill set
+## 言語 / Programming Language
 - Python
   + 使用歴: ３年
   + 使用用途: 研究（データ分析・機械学習モデル開発・Webアプリ制作）
@@ -58,7 +58,7 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
   + 使用歴: 半年
   + 使用用途: 趣味
 
-## フレームワーク・ライブラリ
+## フレームワーク・ライブラリ / Framework, Library
 - Tensorflow
   + 使用歴: ２年
   + 使用用途: 深層学習モデル開発
@@ -81,7 +81,7 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
   + 使用歴: 半年
   + 使用用途: 研究ツールの作成（Webアプリ）
 
-## 開発ツール
+## 開発ツール / Development tool
 - Docker
   + 使用歴: ２年
   + 使用用途: 研究（環境構築）
@@ -89,7 +89,7 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
   + 使用歴: ３年
   + 使用用途: 研究（コード管理），大学講義（課題管理）
 
-## その他
+## その他 / Others
 - Linux
   + Ubuntu
     * 使用歴: ２年
@@ -102,7 +102,7 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
     * 使用歴: １年
     * 使用用途: 研究（データ分析）
 
-# 現在の取り組み
+# 現在の取り組み / Current Actives
 ## オンラインプラットフォーム上の誹謗中傷検出
 ![fig](./figs/my_research_system_architecture_trimed.png)
 
@@ -128,7 +128,7 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
 "[ポスター講演] Well-beingの影響調査に向けた家族の同室滞在時間把握のための位置情報取得システムの開発と評価"，江種大希，中曽禎啓，小川唯，藤本まなと，阿多信吾，超知性ネットワーキングに関する分野横断型研究会（RISING），北海道立道民活動センターかでる2・7，北海道，2023年10月
 
 
-# 過去の取り組み
+# 過去の取り組み / Past Actives
 ## 大規模言語モデル開発
 ### 概要
 大規模言語モデル開発 開発メンバーとして参加．
@@ -150,7 +150,7 @@ BIPROGY様主催のハッカソン "DX HACK" に参加．
 ブログ執筆: https://qiita.com/Yorozuya59/items/116a72021ea8e7505892
 
 
-# 参考
+# 参考 / References
 Qiita: https://qiita.com/Yorozuya59  
 AtCoder: https://atcoder.jp/users/yorozuya  
 Kaggle: https://www.kaggle.com/yorozuya59  
