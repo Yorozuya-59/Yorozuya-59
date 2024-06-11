@@ -8,16 +8,16 @@ Last Updated: 2024/06/08
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Yorozuya59/followers.svg)](http://qiita.com/Yorozuya59)
 
 # 目次
-1. [所属](#所属)
-1. [経歴](#経歴)
-1. [スキルセット](#スキルセット)
-    1. [言語](#言語)
-    1. [フレームワーク・ライブラリ](#フレームワークライブラリ)
-    1. [開発ツール](#開発ツール)
-    1. [その他](#その他)
-1. [現在の取り組み](#現在の取り組み)
-1. [過去の取り組み](#過去の取り組み)
-1. [参考](#参考)
+1. [所属 / Affiliation](#所属)
+1. [経歴 / Career](#経歴)
+1. [スキルセット / Skill set](#スキルセット)
+    1. [言語 / Programming Language](#言語)
+    1. [フレームワーク・ライブラリ / Framework, Library](#フレームワークライブラリ)
+    1. [開発ツール / Development tool](#開発ツール)
+    1. [その他 / Others](#その他)
+1. [現在の取り組み / Current Actives](#現在の取り組み)
+1. [過去の取り組み / Past Actives](#過去の取り組み)
+1. [参考 / References](#参考)
 
 
 # 所属
