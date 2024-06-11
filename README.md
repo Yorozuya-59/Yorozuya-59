@@ -12,7 +12,7 @@ Last Updated: 2024/06/08
 1. [経歴 / Career](#経歴--Career)
 1. [スキルセット / Skill set](#スキルセット--skill-set)
     1. [言語 / Programming Language](#言語--Programming-Language)
-    1. [フレームワーク・ライブラリ / Framework, Library](#フレームワークライブラリ--Framework,-Library)
+    1. [フレームワーク・ライブラリ / Framework, Library](#フレームワークライブラリ--framework-library)
     1. [開発ツール / Development tool](#開発ツール--Development-tool)
     1. [その他 / Others](#その他--Others)
 1. [現在の取り組み / Current Actives](#現在の取り組み--Current-Actives)
