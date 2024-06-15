@@ -45,6 +45,8 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
 - C++
   + 使用歴: １年
   + 使用用途: 競プロ（趣味程度）
+
+以下，使用経験がある程度．
 - R
   + 使用歴: 半年
   + 使用用途: 大学講義
@@ -74,6 +76,8 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
 - Pandas
   + 使用歴: ２年
   + 使用用途: データ分析
+
+以下，使用経験がある程度．
 - Dango
   + 使用歴: 半年
   + 使用用途: 研究ツールの作成（Webアプリ）
@@ -94,7 +98,7 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
   + Ubuntu
     * 使用歴: ２年
     * 使用用途: 研究
-- Data Base
+- Database
   + MySQL
     * 使用歴: １年
     * 使用用途: 研究（データ分析）
@@ -114,6 +118,18 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
 ### 研究成果
 "有害コンテンツ検出のためのデータセット作成"，江種大希，小川唯，金澤真理，阿多信吾，藤本まなと，電子情報通信学会関西支部学生会第28回学生会研究発表講演会，p. 12，関西大学千里山キャンパス，大阪府，2024年3月
 
+### 使用言語・技術スタック
+- Python
+- Django
+- Vue.js
+- Tensorflow
+- Scikit-learn
+- Linux (Ubutnu22.04)
+- MongoDB
+- Pandas
+- Sudachi
+
+
 ## 家庭内におけるWell-beingの影響調査に向けた位置情報取得システムの検討
 ![fig](./figs/future_social_system_architecture_trimed.png)
 
@@ -126,6 +142,19 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
 "家庭内におけるWell-beingの影響調査に向けた位置情報取得システムの検討"，江種大希，中曽禎啓，小川唯，藤本まなと，阿多信吾，電子情報通信学会ソサイエティ大会，B-15-45，p. 370，名古屋大学東山キャンパス，愛知県，2023年9月
 
 "[ポスター講演] Well-beingの影響調査に向けた家族の同室滞在時間把握のための位置情報取得システムの開発と評価"，江種大希，中曽禎啓，小川唯，藤本まなと，阿多信吾，超知性ネットワーキングに関する分野横断型研究会（RISING），北海道立道民活動センターかでる2・7，北海道，2023年10月
+
+### 使用言語・技術スタック
+- Python
+- Tensorflow
+- Tensorboard
+- PyTorch
+- wandb
+- Scikit-learn
+- Pandas
+- Linux (Ubuntu22.04 / RasberryPi OS)
+- InfluxDB
+- Matplotlib
+- Seaborn
 
 
 # 過去の取り組み / Past Actives
@@ -140,6 +169,13 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
 ### 開発リポジトリ
 https://github.com/geniacllm
 
+### 使用言語・技術スタック
+- Srum
+- Python
+- Multi-thread
+- Multi-GPU
+- parallel
+
 ## DX HACK（ハッカソン）参加
 ### 概要
 BIPROGY様主催のハッカソン "DX HACK" に参加．
@@ -148,6 +184,14 @@ BIPROGY様主催のハッカソン "DX HACK" に参加．
 ### 結果
 『オーディエンス賞』 受賞  
 ブログ執筆: https://qiita.com/Yorozuya59/items/116a72021ea8e7505892
+
+### 使用言語・技術スタック
+- make
+- kintone
+- (Javascript)
+- (React)
+
+()内は，参加メンバーが利用
 
 
 # 参考 / References
