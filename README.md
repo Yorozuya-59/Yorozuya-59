@@ -1,4 +1,4 @@
-最終更新日: 2024/06/10 
+最終更新日: 2024/06/10  
 Last Updated: 2024/06/10
 
 ![view counter](https://komarev.com/ghpvc/?username=Yorozuya-59)
