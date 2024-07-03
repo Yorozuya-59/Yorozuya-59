@@ -1,5 +1,5 @@
-最終更新日: 2024/06/10  
-Last Updated: 2024/06/10
+最終更新日: 2024/07/03  
+Last Updated: 2024/07/03
 
 ![view counter](https://komarev.com/ghpvc/?username=Yorozuya-59)
 
@@ -127,7 +127,7 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
 "有害コンテンツ検出のためのデータセット作成"，江種大希，小川唯，金澤真理，阿多信吾，藤本まなと，電子情報通信学会関西支部学生会第28回学生会研究発表講演会，p. 12，関西大学千里山キャンパス，大阪府，2024年3月
 
 ### 使用言語・技術スタック
-[![Used TechStack](https://skillicons.dev/icons?i=c,cpp,md,matlab,py,django,nodejs,vue,pytorch,sklearn,tensorflow,anaconda,aws,bash,docker,gcp,git,github,mongodb,mysql,vscode,latex,figma,linux,notion,linkedin,raspberrypi,ubuntu,windows)](https://skillicons.dev)  
+[![Used TechStack](https://skillicons.dev/icons?i=py,django,vue,tensorflow,sklearn,ubuntu,mongodb,pytorch)](https://skillicons.dev)  
 
 - Python
 - Django
@@ -154,7 +154,7 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
 "[ポスター講演] Well-beingの影響調査に向けた家族の同室滞在時間把握のための位置情報取得システムの開発と評価"，江種大希，中曽禎啓，小川唯，藤本まなと，阿多信吾，超知性ネットワーキングに関する分野横断型研究会（RISING），北海道立道民活動センターかでる2・7，北海道，2023年10月
 
 ### 使用言語・技術スタック
-[![Used TechStack](https://skillicons.dev/icons?i=c,cpp,md,matlab,py,django,nodejs,vue,pytorch,sklearn,tensorflow,anaconda,aws,bash,docker,gcp,git,github,mongodb,mysql,vscode,latex,figma,linux,notion,linkedin,raspberrypi,ubuntu,windows)](https://skillicons.dev)  
+[![Used TechStack](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,raspberrypi,ubuntu)](https://skillicons.dev)  
 
 - Python
 - Tensorflow
@@ -182,7 +182,7 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
 https://github.com/geniacllm
 
 ### 使用言語・技術スタック
-[![Used TechStack](https://skillicons.dev/icons?i=c,cpp,md,matlab,py,django,nodejs,vue,pytorch,sklearn,tensorflow,anaconda,aws,bash,docker,gcp,git,github,mongodb,mysql,vscode,latex,figma,linux,notion,linkedin,raspberrypi,ubuntu,windows)](https://skillicons.dev)  
+[![Used TechStack](https://skillicons.dev/icons?i=py,linux,gcp,git,github)](https://skillicons.dev)  
 
 - Srum
 - Python
@@ -200,8 +200,6 @@ BIPROGY様主催のハッカソン "DX HACK" に参加．
 ブログ執筆: https://qiita.com/Yorozuya59/items/116a72021ea8e7505892
 
 ### 使用言語・技術スタック
-[![Used TechStack](https://skillicons.dev/icons?i=c,cpp,md,matlab,py,django,nodejs,vue,pytorch,sklearn,tensorflow,anaconda,aws,bash,docker,gcp,git,github,mongodb,mysql,vscode,latex,figma,linux,notion,linkedin,raspberrypi,ubuntu,windows)](https://skillicons.dev)  
-
 - make
 - kintone
 - (Javascript)
