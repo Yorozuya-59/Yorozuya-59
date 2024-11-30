@@ -1,5 +1,5 @@
-最終更新日: 2024/07/03  
-Last Updated: 2024/07/03
+最終更新日: 2024/11/30  
+Last Updated: 2024/11/30
 
 ![view counter](https://komarev.com/ghpvc/?username=Yorozuya-59)
 
@@ -152,6 +152,10 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
 "家庭内におけるWell-beingの影響調査に向けた位置情報取得システムの検討"，江種大希，中曽禎啓，小川唯，藤本まなと，阿多信吾，電子情報通信学会ソサイエティ大会，B-15-45，p. 370，名古屋大学東山キャンパス，愛知県，2023年9月
 
 "[ポスター講演] Well-beingの影響調査に向けた家族の同室滞在時間把握のための位置情報取得システムの開発と評価"，江種大希，中曽禎啓，小川唯，藤本まなと，阿多信吾，超知性ネットワーキングに関する分野横断型研究会（RISING），北海道立道民活動センターかでる2・7，北海道，2023年10月
+
+"介護施設利用者の生きがい形成 ―Be supporters!の活動事例分析―（発表予定）"，森田賢，大塚祐多，金田喜久，出雲貴幸，中尾嘉宏，中曽禎啓，江種大希，小川唯，藤本まなと，内田由紀子，第43回日本認知症学会学術集会，ポスター発表，p. 252，ビッグパレットふくしま，福島県，2024年11月
+
+プレスリリース：[高齢者施設の利用者の幸福度が「推し活」とともに段階的に進展することを確認](https://prtimes.jp/main/html/rd/p/000000016.000075017.html)
 
 ### 使用言語・技術スタック
 [![Used TechStack](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,raspberrypi,ubuntu)](https://skillicons.dev)  
