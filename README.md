@@ -1,5 +1,5 @@
-最終更新日: 2024/11/30  
-Last Updated: 2024/11/30
+最終更新日: 2025/03/19  
+Last Updated: 2025/03/19  
 
 ![view counter](https://komarev.com/ghpvc/?username=Yorozuya-59)
 
@@ -10,30 +10,30 @@ Last Updated: 2024/11/30
 # 目次
 1. [所属 / Affiliation](#所属--Affiliation)
 1. [経歴 / Career](#経歴--Career)
-1. [スキルセット / Skill set](#スキルセット--skill-set)
-    1. [言語 / Programming Language](#言語--Programming-Language)
-    1. [フレームワーク・ライブラリ / Framework, Library](#フレームワークライブラリ--framework-library)
-    1. [開発ツール / Development tool](#開発ツール--Development-tool)
-    1. [その他 / Others](#その他--Others)
 1. [現在の取り組み / Current Actives](#現在の取り組み--Current-Actives)
 1. [過去の取り組み / Past Actives](#過去の取り組み--Past-Actives)
 1. [参考 / References](#参考--References)
+<!-- 1. [スキルセット / Skill set](#スキルセット--skill-set)
+    1. [言語 / Programming Language](#言語--Programming-Language)
+    1. [フレームワーク・ライブラリ / Framework, Library](#フレームワークライブラリ--framework-library)
+    1. [開発ツール / Development tool](#開発ツール--Development-tool)
+    1. [その他 / Others](#その他--Others) -->
 
 
 # 所属 / Affiliation
 大阪公立大学 大学院 情報学研究科 基幹情報学専攻 システム情報学分野 スマートプラットフォーム研究室  
 Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Core Informatics, Smart Platform Lab.
 
-研究室URL: https://omusp.jp/
+研究室Webページ: [https://omusp.jp/](https://omusp.jp/)
 
 
 # 経歴 / Career
 - 大阪市立大学 工学部 電気情報工学科 2024/03 卒業  
   Graduated from Osaka City University, Faculty of Engineering, Department of Electric and Information Engineering at 2024/03 
-- 大阪公立大学 大学院 情報学研究科 基幹情報学専攻 システム情報学分野 2026/03 卒業予定  
+- 大阪公立大学 大学院 情報学研究科 基幹情報学専攻 システム情報学分野 2026/03 修了予定  
   Expected to graduate from Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Core Informatics, System Informatics at 2026/03
 
-
+<!--
 # スキルセット / Skill set
 [![My Skills of Language](https://skillicons.dev/icons?i=c,cpp,md,matlab,py)](https://skillicons.dev)  
 [![My Skills of Framework or Library](https://skillicons.dev/icons?i=django,nodejs,vue,pytorch,sklearn,tensorflow)](https://skillicons.dev)  
@@ -113,6 +113,7 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
   + MongoDB
     * 使用歴: １年
     * 使用用途: 研究（データ分析）
+-->
 
 # 現在の取り組み / Current Actives
 ## オンラインプラットフォーム上の誹謗中傷検出
@@ -125,6 +126,9 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
 
 ### 研究成果
 "有害コンテンツ検出のためのデータセット作成"，江種大希，小川唯，金澤真理，阿多信吾，藤本まなと，電子情報通信学会関西支部学生会第28回学生会研究発表講演会，p. 12，関西大学千里山キャンパス，大阪府，2024年3月
+
+"コンテンツモデレーションシステムの構築に向けたオンラインソーシャルメディア上の有害コンテンツ検出"，江種 大希，小川 唯，阿多 信吾，藤本 まなと，情報通信マネジメント研究会（ICM研究会），石垣島市民会館，沖縄県，2025年3月
+
 
 ### 使用言語・技術スタック
 [![Used TechStack](https://skillicons.dev/icons?i=py,django,vue,tensorflow,sklearn,ubuntu,mongodb,pytorch)](https://skillicons.dev)  
@@ -153,7 +157,7 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
 
 "[ポスター講演] Well-beingの影響調査に向けた家族の同室滞在時間把握のための位置情報取得システムの開発と評価"，江種大希，中曽禎啓，小川唯，藤本まなと，阿多信吾，超知性ネットワーキングに関する分野横断型研究会（RISING），北海道立道民活動センターかでる2・7，北海道，2023年10月
 
-"介護施設利用者の生きがい形成 ―Be supporters!の活動事例分析―（発表予定）"，森田賢，大塚祐多，金田喜久，出雲貴幸，中尾嘉宏，中曽禎啓，江種大希，小川唯，藤本まなと，内田由紀子，第43回日本認知症学会学術集会，ポスター発表，p. 252，ビッグパレットふくしま，福島県，2024年11月
+"介護施設利用者の生きがい形成 ―Be supporters!の活動事例分析―"，森田賢，大塚祐多，金田喜久，出雲貴幸，中尾嘉宏，中曽禎啓，江種大希，小川唯，藤本まなと，内田由紀子，第43回日本認知症学会学術集会，ポスター発表，p. 252，ビッグパレットふくしま，福島県，2024年11月
 
 プレスリリース：[高齢者施設の利用者の幸福度が「推し活」とともに段階的に進展することを確認](https://prtimes.jp/main/html/rd/p/000000016.000075017.html)
 
@@ -217,12 +221,14 @@ Qiita: https://qiita.com/Yorozuya59
 AtCoder: https://atcoder.jp/users/yorozuya  
 Kaggle: https://www.kaggle.com/yorozuya59  
 
+<!--
 [![Yorozuya-59's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yorozuya-59&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yorozuya-59&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yorozuya-59)
 ![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yorozuya-59&utcOffset=+9)
+-->
 
 <!--
 **Yorozuya-59/Yorozuya-59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
