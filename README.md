@@ -57,6 +57,7 @@ Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Co
 
 # 現在の取り組み / Current Actives
 ## 機械学習に基づく3次元生体内機器位置推定
+![fig](./figs/phantom_train-test_v2.png)
 
 ### 研究背景
 近年，健康長寿社会の実現に向け，生体内において人の代わりに操作・活動ができるという生体内サイバネティックアバタの開発が活発におこなわれている．
