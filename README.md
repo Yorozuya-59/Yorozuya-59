@@ -1,5 +1,5 @@
-最終更新日: 2025/06/09  
-Last Updated: 2025/06/09  
+最終更新日: 2025/06/21  
+Last Updated: 2025/06/21  
 
 ![view counter](https://komarev.com/ghpvc/?username=Yorozuya-59)
 
@@ -22,10 +22,12 @@ Last Updated: 2025/06/09
 大阪公立大学 大学院 情報学研究科 基幹情報学専攻 システム情報学分野 スマートプラットフォーム研究室  
 Osaka Metropolitan Graduate University, Faculty of Informatics, Department of Core Informatics, Smart Platform Lab.
 
-研究室Webページ: [https://omusp.jp/](https://omusp.jp/)
+研究室Webページ: https://omusp.jp/
 
 
 # 経歴 / Career
+ORCiD: https://orcid.org/0009-0007-6559-8663
+
 - 大阪市立大学 工学部 電気情報工学科 2024/03 卒業  
   Graduated from Osaka City University, Faculty of Engineering, Department of Electric and Information Engineering at 2024/03 
 - 大阪公立大学 大学院 情報学研究科 基幹情報学専攻 システム情報学分野 2026/03 修了予定  
